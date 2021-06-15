@@ -1,0 +1,7 @@
+# Node
+node_modules
+package-lock.json
+
+# Cypress
+cypress/screenshots
+cypress/videos
