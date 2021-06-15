@@ -5,3 +5,6 @@ package-lock.json
 # Cypress
 cypress/screenshots
 cypress/videos
+
+# Misc
+.DS_Store
