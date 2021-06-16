@@ -10,7 +10,7 @@ declare namespace Cypress {
      * @example cy.token()
      */
 
-    token(): Cypress.Chainable<Cypress.Response>
+    token(): void
 
   }
 }
